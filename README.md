@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikgupta1231
 - 👀 I’m interested in Android app development. Looking forward for ML & AI.
 - 🌱 I’m currently learning ML & AI with python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me @mail: guptanikhil1231@gmail.com
 
 <!---
